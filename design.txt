@@ -1,0 +1,8 @@
+Introduction:
+
+You awaken and eyes come open slowly. Everything looks very blury.
+You struggle to see clearly, thought nothing looks familiar to you. You think to yourself, "where am I?"
+You see a heart monitor, and see a nurse. You struggle to find your voice, you say...:
+
+1: Where am I?
+2: Who are you?
