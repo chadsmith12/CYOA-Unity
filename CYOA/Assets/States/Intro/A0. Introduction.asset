@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 920274a5fa3932843b24d63febb0fff9, type: 3}
+  m_Name: A0. Introduction
+  m_EditorClassIdentifier: 
+  _storyText: 'Welcome...
+
+    You can choose your own adventure. It is adviced to be careful what you wish for.
+
+
+    At each stage you will be asked to be a choice. The choices you make in this game
+    will reflect on your game expierence.
+
+
+    1: Let''s do this.'
+  _nextStates:
+  - {fileID: 11400000, guid: f7ba55858fea07d47b11489553ed58c9, type: 2}
